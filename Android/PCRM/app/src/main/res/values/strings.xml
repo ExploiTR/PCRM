@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PCRM</string>
+    <string name="turn_on_off_pc">Turn on/off PC</string>
+    <string name="led_control">Led Control</string>
+    <string name="led_strips">Led Strips</string>
+    <string name="force_shut">Force Shut</string>
+    <string name="activate">Activate!</string>
+</resources>
